@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\DateCalculator\Source\Tests\bin\Debug\Tests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2009-11-17" time="12:02:39">
+  <environment nunit-version="2.5.2.9222" clr-version="2.0.50727.3053" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="D:\DateCalculator\Source\Tests\bin\Debug" machine-name="028-05821" user="mpi3i" user-domain="MAST_INTL" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="D:\DateCalculator\Source\Tests\bin\Debug\Tests.dll" executed="True" success="True" time="0.156" asserts="0">
+    <results>
+      <test-suite name="Tests" executed="True" success="True" time="0.156" asserts="0">
+        <results>
+          <test-suite name="DateTest" executed="True" success="True" time="0.156" asserts="0">
+            <results>
+              <test-case name="Tests.DateTest.Constructor_WithDayOutsideRange_ThrowsArgumentException" executed="True" success="True" time="0.141" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

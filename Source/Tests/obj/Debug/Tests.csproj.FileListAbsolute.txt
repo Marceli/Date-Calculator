@@ -1,0 +1,26 @@
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\bin\Debug\Tests.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\bin\Debug\Tests.pdb
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\bin\Debug\Core.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\bin\Debug\nunit.framework.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\bin\Debug\Core.pdb
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\bin\Debug\nunit.framework.xml
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\obj\Debug\Tests.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\obj\Debug\Tests.pdb
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\bin\Debug\Controllers.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\bin\Debug\Controllers.pdb
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Tests\bin\Debug\Rhino.Mocks.xml
+D:\DateCalculator\Source\Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\DateCalculator\Source\Tests\obj\Debug\Tests.dll
+D:\DateCalculator\Source\Tests\obj\Debug\Tests.pdb
+D:\DateCalculator\Source\Tests\bin\Debug\Tests.dll
+D:\DateCalculator\Source\Tests\bin\Debug\Tests.pdb
+D:\DateCalculator\Source\Tests\bin\Debug\Controllers.dll
+D:\DateCalculator\Source\Tests\bin\Debug\Core.dll
+D:\DateCalculator\Source\Tests\bin\Debug\nunit.framework.dll
+D:\DateCalculator\Source\Tests\bin\Debug\Rhino.Mocks.dll
+D:\DateCalculator\Source\Tests\bin\Debug\Core.pdb
+D:\DateCalculator\Source\Tests\bin\Debug\nunit.framework.xml
+D:\DateCalculator\Source\Tests\bin\Debug\Controllers.pdb
+D:\DateCalculator\Source\Tests\bin\Debug\Rhino.Mocks.xml

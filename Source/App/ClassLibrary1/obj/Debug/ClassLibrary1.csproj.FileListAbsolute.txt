@@ -1,0 +1,5 @@
+D:\DateCalculator\Source\App\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\DateCalculator\Source\App\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\DateCalculator\Source\App\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+D:\DateCalculator\Source\App\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\DateCalculator\Source\App\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

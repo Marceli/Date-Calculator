@@ -1,0 +1,20 @@
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\DateCalculation\bin\DateCalculation.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\DateCalculation\bin\DateCalculation.pdb
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\DateCalculation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\DateCalculation\obj\Debug\DateCalculation.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\DateCalculation\obj\Debug\DateCalculation.pdb
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\DateCalculation\bin\Controllers.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\DateCalculation\bin\Core.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\DateCalculation\bin\nunit.framework.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\DateCalculation\bin\Core.pdb
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\DateCalculation\bin\nunit.framework.xml
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\DateCalculation\bin\Controllers.pdb
+D:\DateCalculator\Source\App\DateCalculation\bin\DateCalculation.dll
+D:\DateCalculator\Source\App\DateCalculation\bin\DateCalculation.pdb
+D:\DateCalculator\Source\App\DateCalculation\bin\Controllers.dll
+D:\DateCalculator\Source\App\DateCalculation\bin\Core.dll
+D:\DateCalculator\Source\App\DateCalculation\bin\Core.pdb
+D:\DateCalculator\Source\App\DateCalculation\bin\Controllers.pdb
+D:\DateCalculator\Source\App\DateCalculation\obj\Debug\ResolveAssemblyReference.cache
+D:\DateCalculator\Source\App\DateCalculation\obj\Debug\DateCalculation.dll
+D:\DateCalculator\Source\App\DateCalculation\obj\Debug\DateCalculation.pdb

@@ -1,0 +1,99 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="222" fromTop="12" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:PeriodTest.cs" caret="2036" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="3073" fromTop="11" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="3073" fromTop="16" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="3073" fromTop="20" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="3073" fromTop="7" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="3073" fromTop="23" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="3073" fromTop="13" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="2073" fromTop="23" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="1655" fromTop="4" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="1725" fromTop="12" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="57" fromTop="4" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="3073" fromTop="23" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:PeriodTest.cs" caret="230" fromTop="2" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:PeriodTest.cs" caret="505" fromTop="10" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:PeriodTest.cs" caret="765" fromTop="14" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:PeriodTest.cs" caret="1130" fromTop="16" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:PeriodTest.cs" caret="2194" fromTop="23" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:PeriodTest.cs" caret="2179" fromTop="22" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="693" fromTop="7" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="1599" fromTop="11" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:PeriodTest.cs" caret="2137" fromTop="20" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="1999" fromTop="21" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="1199" fromTop="9" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:Class1.cs" caret="222" fromTop="12" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:PeriodTest.cs" caret="1745" fromTop="12" />
+      <File id="57D8EBBB-4833-49CB-B45B-D5931F59D3FB/f:PeriodTest.cs" caret="1944" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="3" />
+      <Item value="int" priority="4" />
+      <Item value="private" priority="1" />
+      <Item value="months" priority="1" />
+      <Item value="this" priority="9" />
+      <Item value="days" priority="0" />
+      <Item value="month" priority="8" />
+      <Item value="case" priority="0" />
+      <Item value="return" priority="4" />
+      <Item value="IFormattable" priority="1" />
+      <Item value="if" priority="4" />
+      <Item value="IsLeapYear" priority="0" />
+      <Item value="Years" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="Period" priority="2" />
+      <Item value="while" priority="0" />
+      <Item value="DaysInMonth" priority="0" />
+      <Item value="Months" priority="1" />
+      <Item value="result" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="asrt" priority="0" />
+      <Item value="period" priority="3" />
+      <Item value="period1" priority="0" />
+      <Item value="Test" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="1" />
+      <Item value="Days" priority="0" />
+      <Item value="dateTime" priority="0" />
+      <Item value="dateTime1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Core.Period">
+      <Item value="years" priority="1" />
+      <Item value="days" priority="0" />
+      <Item value="Days" priority="3" />
+      <Item value="months" priority="2" />
+      <Item value="CalculateDifference" priority="0" />
+      <Item value="Years" priority="0" />
+      <Item value="Months" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Days" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

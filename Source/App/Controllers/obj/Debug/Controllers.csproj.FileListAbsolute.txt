@@ -1,0 +1,16 @@
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Controllers\bin\Debug\Controllers.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Controllers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Controllers\obj\Debug\Controllers.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Controllers\bin\Debug\Core.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Controllers\bin\Debug\nunit.framework.dll
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Controllers\bin\Debug\Core.pdb
+C:\Users\Marcel\Documents\Visual Studio 2008\Projects\Core\Controllers\bin\Debug\nunit.framework.xml
+D:\DateCalculator\Source\App\Controllers\obj\Debug\ResolveAssemblyReference.cache
+D:\DateCalculator\Source\App\Controllers\obj\Debug\Controllers.pdb
+D:\DateCalculator\Source\App\Controllers\bin\Debug\Controllers.dll
+D:\DateCalculator\Source\App\Controllers\bin\Debug\Controllers.pdb
+D:\DateCalculator\Source\App\Controllers\bin\Debug\Core.dll
+D:\DateCalculator\Source\App\Controllers\bin\Debug\Core.pdb
+D:\DateCalculator\Source\App\Controllers\obj\Debug\Controllers.dll
